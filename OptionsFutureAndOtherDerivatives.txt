@@ -1,0 +1,209 @@
+Options Future and Other Derivatives
+        
+    By John C. Hull
+    Chapter 1
+        Introduction (t   20 9 26 5 18)            
+             Preamble
+             A derivative can be defined as a financial instrument
+             whose value depends or is derived from
+             the values of other more basic underlying variables
+        Exchange Traded Markets
+             Chicago Mercantile exchange est 1919
+             Chicago Board options Exchange est 1973
+             Electronic Markets
+             More popular than the open outcry system
+        Over the counter markets
+             OTC market much larger than exchanges
+             Particpants can negotiate any price they want – more of a credit risk than exchanges
+                 Market Size
+                     Bank for International setllements www.bis.com
+                     Estimated OTC contracts outstanding in 2004 == $6.4 trillion
+                     Forward Contracts
+                                                     
+        Forward Contract:
+             An agreement to buy – or sell – an asset
+             at a certain future time
+             for a certain future price
+             usually witnessed somehow taped converstaion - ledger etc...
+ 
+                 Often used to hedge foreign currency risk:
+                     contractually agreeing to buy money in the future at a price agreed today
+                     In order to then take that money and pay a bill to a foreign supplier
+                 Spot Contract:
+                     An agreement to buy – or sell – an asset today
+                 Long position:
+                     Agrees to buy the contract at a future date for a specified price
+                 Short position:
+                     Agrees to sell the contract on that date for the specified price
+ 
+ 
+        Payoffs from Forward Contracts (1)
+             If the price to buy a british pound rises
+             then to buy a million british pounds at an already agreed future date,
+             such a contract is worth tens of  thousands in saved money
+             K == the delivery Price
+             ST == The spot price of the asset at maturity of the contract
+              
+        Payoffs from Forward Contracts (2)
+             A short position wil return K ST
+             A short position wil return ST – K
+             These returns can be either positive or negative and 
+             represents the payoff from entering the contract
+ 
+        Forward prices and Spot prices
+             ? bad example ? – what?                             
+        Futures contracts
+             Different to forward contracts – because
+             they are traded on an exchange
+             gives both paties a guarantee that the contract will be honoured
+ 
+             Chicago Borad of Trade
+             And CME Chicago Mercantile Exchange
+        Futures contracts 
+             Future contracts determine the price of things because
+             If more traders want to go long than short – the price goes up
+             If more traders want to go short than long – the price goes down
+ 
+        Futures contracts 
+             Why do futures markets exist?
+             1. To enable planning of production and consumption
+             2. To enable price discovery
+        
+        Options (1)
+             Traded OTC and on exhanges
+                 Price quoted in an options contract – is called a:
+                     Strike price or an
+                     Excercise price
+                 The date quoted in the options contract – is called an:
+                     Expiration date or
+                     Maturity
+        Options (2)
+             There are two types of options 
+             both are bought and sold by options traders:
+                 Call Option:
+                     The right to buy a certain asset by a certain date - for a certain price
+                 Put Option:
+                     The right to sell a certain asset by a certain date - for a certain price
+        Options (3)
+             American Options:
+             Can be excerised at any time up to the expiration date
+             opaque & hard to analyse
+             value is often deduced from it’s eurpean conterparts
+                 European options:
+                     Can only be exercised on the expiration date    
+                     Chicago Board Options Exchange  (CBOE)
+ 
+                 Difference between futures and forward contracts
+                     f&f contracts cost nothing to enter into
+                     But you must pay for the right to exercise an option
+                     F&f contracts must be honoured
+                     but you do not have to exercise the right afforded to you by owning an option contract
+                                                                                    
+                 Example:
+                     1 option == the right to
+                     call upon 100 shares to buy at the agreed price or
+                     put down to sell 100 shares at the agreed price
+                     – when the agreed date comes around
+ 
+                 If you purchase the option to buy in October
+                     and from May onwards the stock does well
+                     then when October comes around you can exercise the option to buy at a lesser price an make a profit
+                     If the stock does badly
+                     You lose your initial investment
+        Types of Traders
+             Derivative markets have become outstaningly succesful
+             and have a lot of liquidity
+             because of the many different types of traders:
+                 Hedgers 
+                     reducing the risk of potential price shifts
+                 Speculators
+                 Aribitrageurs 
+                     take offsetting positions in two or more instruments to lock in a profit -(ie: buy in one - sell in the other)
+                 Hedge funds 
+                     Use derivatives for all three purposes
+ 
+        Business Snapshot
+             Mutual funds
+             are required to register under US federal securities law
+             shares in Mutual funds must be fairly priced and redeemable at all times
+             investment policies must be disclosed
+             no short positions can be taken.
+                 Hedge funds
+                     are not required to register under US federal securities law
+                     they do not advertise their services to the public at large
+                     are free to create proprietary investment strategys of great complexity
+                     Typically charge 1 or 2 % on amt invested - plus 20% of any accrued profits
+ 
+                 Hedge Fund manager:
+                     Investment strategy often involves using derivatives to set up a:
+                     Speculative position or a Arbitrage position
+                 Once they have a strategy they must:
+                     Evaluate the risks to which the fund is exposed
+                     Decide which risks are acceptable and which must be hedged
+                     Devise strategies (usually involving derivatives ) to hedge the unacceptable risks
+                 Terms:
+                     Convertable Arbitrage   
+                     Long in convertible bond but short in the underlying equity  
+                 Distressed Securities      
+                     Buy securities issued from a bankrupt company 
+                 Emerging Markets           
+                     Invest in debt & equity of companies in emerging markets and the debt of the countries themselves
+                 Growth Fund                     
+                     Invest in growth stocks hedging with short sales of options
+                 Macro or Global                
+                     Use derivatives to speculate on intrest rate and foreign exchange rate moves
+                 Market Neutral                 
+                     Buy overvalued securities and sell undervalued securities in such a way that overall exposure to market direction is always neutral      
+        Hedgers
+            An Example of Hedging Using Options
+                An Example of Hedging Using Forward Contracts
+                    Export and Import Co hedging on imports & exports to from GB to/from USA
+                Key aspect of hedging:
+                    The cost for the underlying asset is assured - when buying
+                    And the  price recieved for the underlying asset is assured - when selling
+                    But there is no guarantee that the outcome with hedging will be better than the outcome without hedging
+                   
+                A Comparison
+                    Options have an upfront fee they allow an investor to insure themselves against adverse price changes
+                    Forward contracts are free to enter into - but commit you to buying/selling at a certain price in the future therby neutralizing the risk of any price change in between 
+        Speculators
+            An example of speculation using futures
+            Price of pounds sterling is going to rise you think - so buy 4 futures contracts which will cost (at a specified date £62,000)
+            The price of pounds rises so you have made a profit of about $14,000  by using these future contracts which only cost you a deposit of around $20,000 in a margin account
+                An example of speculation using options
+                    Options if correctly planned == (difference between strike price and actual price) * quantity = profit
+                    Options if incorrectly planned == the cost of the options purchase
+                A comparison
+                    When a speculator uses futures the potential loss can be just as big as the potential gain
+                    When a speculator uses options the potential loss is limited to the price price paid for the options - Why not always trade with options???
+        Arbitrageurs
+            Abitrage involves locking in a riskless profit 
+            by simultaneously entering into transactions 
+            in two or more markets
+                Arbitrage oppourtunities are rare 
+                    because everyone is looking for them
+                Example (1)
+                    is of a stock that sells in the states for $172 a share and
+                    sells for £100 a share in the UK
+                    Where the exchange rate is $1.75 == £1
+                Example (2)                        
+                    Then $1.75 * 100 = 100 english shares è equivalent to $175
+                    100 American shares == $172
+                    Buy for $172 in US and sell for $175 in UK 
+                    $3 profit per share... that’s arbitrage
+                Example (3)        
+                    Clearly based on lack of realisation from other market players
+                    Lateral thinking clearly required to even realise an oppourtunity
+        Business Snapshot
+            Nick Leeson barings bank story -
+            Moral: clearly set your risk limits              
+        Dangers
+            Derivatives are very versatile instruments
+            Checks must be put in place to ensure that 
+            they are being used for their intended purpose
+            Also risk limits must be adhered to
+        Summary
+            This book is basically concerned with the valuation of derivatives
+     
+
+ 

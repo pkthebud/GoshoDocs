@@ -1,0 +1,97 @@
+Node - late to the game   2015-10-25
+
+    Blog 2015-10-25
+        SO Yeah
+            I've been working on my crappy rails version
+            so long that it's starting to gather dust
+            Work has finally eased off a bit...
+            Time to check out what node can really do
+
+    Github for the win
+        Github for the win
+            all hail eddywashere for the 
+            many starred node-stripe-membership-saas
+            lets have a look...
+
+                Preflight
+                    node installed - check
+                    mongodb installed - check
+
+                Config
+                    the file /server/config/secrets.js needs
+                    my stripe keys which are... wahayhayhay-it a minnit...
+                    And also the plans I'm going to offer
+                    Sounds good so far... :/
+
+                Account
+                    Mailgun - Signed in looks good
+                    Stripe - agh yeah yeah no ok yeah ok good now
+                    Secret key - ok this is to do with express clearly
+
+                // rightgif http://i.imgur.com/LPJIKwI.gifv
+                Told you I know nothing!
+                    Just changed the secret key to some random phrase - ok good
+                    We are moving, we are moving!
+
+                // rightgif http://www.reactiongifs.com/r/facepalm.gif
+                Google Analytics
+                    Yeah so ad tech ad tech and more ad tech eh?
+                    ok why not - I'm ashamed to say that 
+                    I've never used it - but that's easily fixed
+                    who doesn't have a google account these days...
+
+                Ok all set 
+                    Config is a go - let's do this
+                    ... what do I do again? ...
+                    oh yeah - npm install
+
+    Node Node Node 
+        // rightgif http://www.reactiongifs.com/wp-content/uploads/2012/11/naked-gun-facepalm.gif
+        Install
+            npm install - 
+            eeewww warn warn error error eeeww
+            ok... 
+            node server ... ack!! fail!
+            Oops forgot to start mongo or "mongod"
+
+                // rightgif http://www.reactiongifs.com/r/rdcl.gif
+                Express is working 
+                    Ok - were up on port 3000, 
+                    with a mongoose warning
+                    but still up on port 3000 
+
+                // rightgif http://i.imgur.com/9poAp.gif
+                Let's have a look
+                    First thoughts - purple
+                    but does it blend?
+
+
+                Sources not cards
+                    Error in the code 2015-10-25
+                    https://github.com/eddywashere/node-stripe-membership-saas/pull/9
+                    quick fix - phew!
+
+                // rightgif http://www.reactiongifs.com/r/ghfj.gif
+                Jiggery Pokery
+                    must... fix.. stripe... plan 
+                    all... lower... case... ids...
+
+    Are we done?
+        // 
+        The Reveal
+            Can we get some other color up in here?
+            I'm going for navbar-default background #599CB6
+            and AAD6EA for the highlight 
+            other than the jules is tip top
+
+
+                // pic site.jpg
+                Change the title 
+                    and we are a go 
+                    looks pretty good for technically 
+                    an hour plus blog time :D
+
+                Tune in Next time:
+                    For Google 
+                    Github and 
+                    facbook integration

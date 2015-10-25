@@ -1,81 +1,81 @@
-// tilecolor  #DDDDDD 
+// tilecolor  #7FDBFF 
 Git High-level commands   
     A
         // rightgif https://media.giphy.com/media/1kAtLyUQVMHjG/giphy.gif
-        // bg  #DDDDDD 
+        // bg  #7FDBFF 
         git-add(1) 
             Add file contents to the index.
 
         // leftgif https://media1.giphy.com/media/14bvjOzMN8s0x2/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-am(1)  
             Apply a series of patches from a mailbox.
 
         // rightgif https://media.giphy.com/media/Q6gPyUYrCk76g/giphy.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-archive
             Create an archive of files from a named tree.
 
     B   
         // pic https://static.pexels.com/photos/2371/person-looking-searching-clean.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-bisect(1) 
             Find by binary search the change that introduced a bug.
                 
         // pic https://static.pexels.com/photos/715/nature-cloudy-branches-tree.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-branch(1) 
             List, create, or delete branches.
 
         //pic https://static.pexels.com/photos/1091/coffee-cup-table-morning.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-bundle(1) 
             Move objects and refs by archive.
 
     C
         // pic https://static.pexels.com/photos/6490/people-hotel-bar-drinks.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-checkout
             Checkout a branch or paths to the working tree.
 
         // pic https://static.pexels.com/photos/8343/food-cherries.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-cherry-pick
             Apply the changes introduced by some existing commits.
             
         // pic https://static.pexels.com/photos/4316/technology-computer-chips-gigabyte.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-citool
             Graphical alternative to git-commit.
 
         // rightgif https://media.giphy.com/media/lT0wsL6b6tbfq/giphy.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-clean
             Remove untracked files from the working tree.
 
         // gif https://media.giphy.com/media/K6QMZYCuavr4Q/giphy.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-clone
             Clone a repository into a new directory.
 
         // pic https://static.pexels.com/photos/8859/drink-beer.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-commit
             Record changes to the repository.
 
     D
         // pic https://static.pexels.com/photos/9137/night-vintage-music-bokeh.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-describe
             Show the most recent tag that is reachable from a commit.
         
         // pic https://static.pexels.com/photos/539/man-person-legs-grass.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-diff 
             Show changes between commits, commit and working tree, etc.
     F
         // pic https://static.pexels.com/photos/1173/animal-dog-pet-cute.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-fetch 
             Download objects and refs from another repository.
 
@@ -84,108 +84,108 @@ Git High-level commands
             Prepare patches for e-mail submission.
     G
         // leftgif https://media.giphy.com/media/hS2Oh3m0CkhFe/giphy.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-gc(1)
             Cleanup unnecessary files and optimize the local repository.
 
         // rightgif https://media3.giphy.com/media/D3NlvPQaDhJ0A/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-grep(1)
             Print lines matching a pattern.
 
         // leftgif https://media2.giphy.com/media/dnYQ7p67dX6Za/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-gui(1)
             A portable graphical interface to Git.
     I
         // pic https://static.pexels.com/photos/2923/young-game-match-kids.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-init(1)
             Create an empty Git repository or reinitialize an existing one.
     L
         // pic https://static.pexels.com/photos/792/wood-landscape-mountains-nature.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-log(1)
             Show commit logs.
     M
         // pic https://static.pexels.com/photos/4634/people-street-sidewalk-jeans.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-merge(1)
             Join two or more development histories together.
     
         // pic https://static.pexels.com/photos/5358/sea-beach-holiday-vacation.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-mv(1)
             Move or rename a file, a directory, or a symlink.
     N
         // pic https://static.pexels.com/photos/6622/pexels-photo.jpeg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-notes(1)
             Add or inspect object notes.
     P
         // pic https://static.pexels.com/photos/4905/door-rustic.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-pull(1)
             Fetch from and integrate with another repository or a local branch.
     
         // pic https://static.pexels.com/photos/6620/pexels-photo.jpeg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-push(1)
             Update remote refs along with associated objects.
     R
         // pic https://static.pexels.com/photos/823/black-and-white-waves-close-up-view-circle.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-rebase(1)
             Forward-port local commits to the updated upstream head.
 
         // rightgif https://media2.giphy.com/media/aOzFWT8lRj41q/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-reset(1)
             Reset current HEAD to the specified state.
 
         // leftgif https://media3.giphy.com/media/CRwUOHpwa9Lhe/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-revert(1)
             Revert some existing commits.
 
         // leftgif https://media4.giphy.com/media/RdHzreJdSlDBm/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-rm(1)
             Remove files from the working tree and from the index.
 
     S
         // pic https://static.pexels.com/photos/1564/dawn-nature-sunset-dust.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-shortlog(1)
             Summarize git log output.
 
         // pic https://static.pexels.com/photos/4433/city-people-art-night.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-show(1)
             Show various types of objects.
 
         // pic https://static.pexels.com/photos/8556/pexels-photo.jpg
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-stash(1)
             Stash the changes in a dirty working directory away.
 
         // leftgif https://media0.giphy.com/media/52VjAeGgj78GY/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-status(1)
             Show the working tree status.
 
         // rightgif https://media2.giphy.com/media/10alT2NUEi5cuk/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-submodule(1)
             Initialize, update or inspect submodules.
 
     T
         // leftgif https://media1.giphy.com/media/cqYZiBIJ0SVAQ/200.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         git-tag(1)
             Create, list, delete or verify a tag object signed with GPG.
 
         // rightgif https://media.giphy.com/media/xd8qTUdPqMsLK/giphy.gif
-        // bg  #DDDDDD
+        // bg  #7FDBFF
         gitk(1)
             The Git repository browser.
